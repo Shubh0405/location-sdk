@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "location sdk"
 include(":app")
 include(":location")
+include(":location_test")
